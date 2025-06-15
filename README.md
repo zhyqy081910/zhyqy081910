@@ -27,4 +27,4 @@
 ## Devices in use
 
 ![Xiaomi 12 S Pro](https://img.shields.io/badge/Xiaomi%2012%20S%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Redmi G 2022](https://img.shields.io/badge/Redmi%20G%202022-ff6900?style=flat-square&logo=Redmi&logoColor=ffffff)
+![Redmi G 2022](https://img.shields.io/badge/Redmi%20G%202022-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
