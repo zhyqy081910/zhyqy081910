@@ -22,7 +22,7 @@
 
 ## Using OS
 ![Android 15](https://img.shields.io/badge/Android%2015-3DDC84?logo=android&logoColor=white)
-![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows10&logoColor=white)
+![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?logo=windows10&logoColor=white)
 
 ## Devices in use
 
