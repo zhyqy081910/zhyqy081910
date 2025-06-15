@@ -3,13 +3,13 @@
 #### I'm zhyqy081910
 
 ## Self introduction
-- Chinese / 17 y.o. / Not a very mature boy
+- Chinese / 17 y.o. / a shy boy
 - 🌍 zh-CN / en-US (little) 
 - 📖 A senior high school student.
 - 📱 Also a digital enthusiast.
-- 📷 Like to take some photos.
-- 🎮 Poor skills in games.
-- 💬 You can ask me anything except politics and privacy.
+- 🎮 like playing War Thunder
+- 💬 You can ask me anything especialy War Thunder
+- 🏸 like playing badminton
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dmdkj0@gmail.com)
@@ -18,7 +18,7 @@
 
 
 ### Other
-- Senior high school courses😡I hate it
+- fxxk you bvvd!
 
 ## Using OS
 ![Android 15](https://img.shields.io/badge/Android%2015-3DDC84?logo=android&logoColor=white)
