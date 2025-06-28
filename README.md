@@ -11,7 +11,6 @@
 - 💬 You can ask me anything especialy War Thunder
 - 🏸 like playing badminton
 - I like Lin Dan
-- I love YONEX
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dmdkj0@gmail.com)
