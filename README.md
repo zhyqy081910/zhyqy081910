@@ -22,6 +22,7 @@
 - fxxk you bvvd!
 - Strengthen the Chinese system！
 - I have a girl partner
+- I love playing with my partner
 
 ## Using OS
 ![Android 15](https://img.shields.io/badge/Android%2015-3DDC84?logo=android&logoColor=white)
